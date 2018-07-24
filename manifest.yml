@@ -1,4 +1,4 @@
 applications:
-- name: iot-solution-tutorial
-  host: iot-solution-tutorial
+- name: shweta
+  host: accelerometer
   memory: 128M
